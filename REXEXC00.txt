@@ -14,5 +14,5 @@
 //SYSIN    DD *                                                      
  SET MAXCC=1                                                         
 //*        
-//*added a comment                                                          
+//*added a comment    2                                                      
 //                                                                   
