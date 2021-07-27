@@ -13,6 +13,5 @@
 //SYSOUT   DD SYSOUT=*                                               
 //SYSIN    DD *                                                      
  SET MAXCC=1                                                         
-//*        
-//*added a comment    3                                                     
+//*                                                        
 //                                                                   
